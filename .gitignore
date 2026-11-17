@@ -1,0 +1,31 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# IDE & Editor Directories
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*~
+
+# PHP Runtime & Logs
+*.log
+error_log
+php_error.log
+*.tmp
+
+# Environment & Secrets (best practice)
+.env
+.env.local
+.env.*.local
+
+# Dependency directories (if package managers used in future)
+/vendor/
